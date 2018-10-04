@@ -1,0 +1,16 @@
+/*Omar CSS*/
+
+.container {
+    border: 1px solid #000000;
+}
+
+
+.header{
+    min-height: 90px;
+    background: #3c3c3c;
+}
+
+.footer{
+    min-height: 40px;
+    background: #3c3c3c;
+}
